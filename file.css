@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.margin{
+    margin: 5px;
+    padding: 3px;
+}
+
+#TncEl{
+    margin: 20px 0;
+}
+
+#submitEl{
+    background-color: rgb(54, 54, 200);
+    color: white;
+}
